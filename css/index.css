@@ -1,0 +1,27 @@
+html{ margin: 0px; }
+body { background-color: #eee; margin: 0px;}
+h1, h2, h3, h4, h5, h6 { margin: 0px; font-weight: normal;}
+p { margin: 0px;}
+img { display: block; position: fixed; bottom: 0px; text-align: center; width: 100%;}
+header h1, h2 { font-family: sans-serif; text-align: center; font-size: 5em; color: #6f6f6f}
+	.buton { }
+	p { -moz-column-count:3;
+-webkit-column-count:3;
+-o-column-count:3;
+column-count:3;
+-moz-column-gap:20px;
+-webkit-column-gap:20px;
+-o-column-gap:20px;
+column-gap:20px;
+-webkit-column-rule-width:6px;
+-webkit-column-rule-color:#680100;
+-webkit-column-rule-style:groove;
+-moz-column-rule-width:6px;
+-moz-column-rule-color:#680100;
+-moz-column-rule-style:groove;
+-o-column-rule-width:6px;
+-o-column-rule-color:#680100;
+-o-column-rule-style:groove;
+column-rule-width:6px;
+column-rule-color:#680100;
+column-rule-style:groove;}
